@@ -1,8 +1,8 @@
 ---
-title: "Manon"
-date:   2020-06-12 15:55:00 +0100
+title: "Fluides"
+date:   2021-04-11
 categories:
-  - Aide
+  - Leçon
 tags:
   - Tension de surface
   
@@ -12,6 +12,6 @@ tags:
 
 [Lien du PDF](/assets/pdf/NotesCours_Agreg.pdf)
 
-{% include pdf src="/assets/pdf/entretiens_techniques.pdf" %}
+{% include pdf src="/assets/pdf/NotesCours_Agreg.pdf" %}
 
 Et tout se passe bien
