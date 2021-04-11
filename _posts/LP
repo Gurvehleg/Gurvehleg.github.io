@@ -1,0 +1,18 @@
+---
+title: "LP"
+date:   2021-04-11 15:55:00 +0100
+categories:
+  - Leçon
+tags:
+  - Optique
+  - Michelson
+---
+
+# Une démonstration de l'insertion d'un pdf
+
+[Lien du PDF](/assets/pdf/LP21_InductionEM.pdf)
+
+{% include pdf src="/assets/pdf/LP21_InductionEM.pdf" %}
+
+Et tout se passe bien
+
