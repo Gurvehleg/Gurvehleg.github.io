@@ -10,7 +10,7 @@ tags:
 
 # Une démonstration de l'insertion d'un pdf
 
-[Lien du PDF](/assets/pdf/entretiens_techniques.pdf)
+[Lien du PDF](/assets/pdf/Manon.pdf)
 
 {% include pdf src="/assets/pdf/entretiens_techniques.pdf" %}
 
