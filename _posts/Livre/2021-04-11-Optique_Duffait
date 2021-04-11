@@ -1,0 +1,20 @@
+---
+title: "LP21"
+date:   2021-04-11 15:55:00 +0100
+categories:
+  - Livres 
+tags:
+  - Optique
+  
+ 
+  
+---
+
+# Expériences d'optique Duffait
+
+[Lien du PDF](/assets/pdf/Expériences-doptique_Duffait.pdf)
+
+{% include pdf src="/assets/pdf/Expériences-doptique_Duffait.pdf" %}
+
+
+
