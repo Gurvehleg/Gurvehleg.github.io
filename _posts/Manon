@@ -1,0 +1,17 @@
+---
+title: "Manon"
+date:   2020-06-12 15:55:00 +0100
+categories:
+  - Aide
+tags:
+  - Tension de surface
+  
+---
+
+# Une démonstration de l'insertion d'un pdf
+
+[Lien du PDF](/assets/pdf/entretiens_techniques.pdf)
+
+{% include pdf src="/assets/pdf/entretiens_techniques.pdf" %}
+
+Et tout se passe bien
