@@ -1,5 +1,5 @@
 ---
-title: "Agreg physique"
+title: "Agrégation physique"
 layout: splash
 classes:
   - landing
@@ -13,4 +13,4 @@ Ajouter des images dans une page :
 ![Description](/assets/images/le_nom.jpg)
 crop les images, elles sont centrées au milieu pour l'entête. Dans les autres cas elles seront en entier
 {% endcomment %}
-# Ce site est sponsorisé par Alexandre Conte, coeur sur lui
+
