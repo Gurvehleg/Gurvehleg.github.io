@@ -4,7 +4,7 @@ layout: splash
 classes:
   - landing
 header:
-  overlay_filter: "0.8"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/Galaxie.jpg
 excerpt: la chimie, c'est la vie.
 ---
