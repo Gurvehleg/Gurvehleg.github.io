@@ -5,7 +5,7 @@ classes:
   - landing
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Fond.jpg
+  overlay_image: /assets/images/Galaxie.jpg
 excerpt: la chimie, c'est la vie.
 ---
 {% comment %}
