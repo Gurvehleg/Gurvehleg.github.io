@@ -24,3 +24,7 @@ https://chemix.org/
 Chimie Thibierge :
 
 http://www.etienne-thibierge.fr/cours_electrochimie.php
+
+Animation pile Daniell :
+
+http://www.pccl.fr/physique_chimie_college_lycee/lycee/terminale_TS/daniell.htm
