@@ -28,3 +28,7 @@ http://www.etienne-thibierge.fr/cours_electrochimie.php
 Animation pile Daniell :
 
 http://www.pccl.fr/physique_chimie_college_lycee/lycee/terminale_TS/daniell.htm
+
+Fiche Techniques STL :
+
+https://spcl.ac-montpellier.fr/moodle/course/view.php?id=46&section=2
