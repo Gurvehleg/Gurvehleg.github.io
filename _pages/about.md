@@ -19,3 +19,8 @@ https://biblio.nathan.fr/specimen/9782091653747/?openBook=9782091653747%3fdXNlck
 Site de chimie pour faire des schéma d'expériences :
 
 https://chemix.org/
+
+
+Chimie Thibierge :
+
+http://www.etienne-thibierge.fr/cours_electrochimie.php
