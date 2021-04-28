@@ -32,3 +32,23 @@ http://www.pccl.fr/physique_chimie_college_lycee/lycee/terminale_TS/daniell.htm
 Fiche Techniques STL :
 
 https://spcl.ac-montpellier.fr/moodle/course/view.php?id=46&section=2
+
+
+-Oreille et impédance :
+
+Médecine :
+https://fr.wikipedia.org/wiki/Mesure_d%27imp%C3%A9dance
+
+Le vide :
+https://fr.wikipedia.org/wiki/Imp%C3%A9dance_caract%C3%A9ristique_du_vide
+
+En général : 
+https://fr.wikipedia.org/wiki/Imp%C3%A9dance
+
+Adaptation (bof) :
+https://fr.wikipedia.org/wiki/Imp%C3%A9dance
+
+Ligne de transmission : 
+https://fr.wikipedia.org/wiki/Imp%C3%A9dance_caract%C3%A9ristique
+
+
