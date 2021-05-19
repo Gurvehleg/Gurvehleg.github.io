@@ -10,7 +10,7 @@ tags:
 
 # Impedance et adaptation d'impédance en physique
 
-[Lien du PDF](/assets/pdf/Doppler_application.pdf)
+[Lien du PDF](/assets/pdf/LPB_impedance.pdf.pdf)
 
-{% include pdf src="/assets/pdf/Doppler_application.pdf" %}
+{% include pdf src="/assets/pdf/LPB_impedance.pdf" %}
 
