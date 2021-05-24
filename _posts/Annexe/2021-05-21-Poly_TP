@@ -1,0 +1,25 @@
+---
+title: "Poly_TP"
+date:   2021-04-11
+categories:
+  - Annexe physique
+tags:
+  - Moteur
+  - PLL
+  - Plaquettes
+  
+---
+
+# Poly de JBD
+
+1- TP agreg
+
+[Lien du PDF](/assets/pdf/TP_elec_agreg.pdf)
+{% include pdf src="/assets/pdf/TP_elec_agreg.pdf" %}
+
+
+
+2- Plaquettes
+
+[Lien du PDF](/assets/pdf/plaquettes.pdf)
+{% include pdf src="/assets/pdf/plaquettes.pdf" %}
