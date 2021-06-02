@@ -10,8 +10,8 @@ tags:
 
 # Poly de manip 
 
-[Lien du PDF](/assets/pdf/poly_techniques-final2.pdf)
+[Lien du PDF](/assets/pdf/poly techniques-final2021.pdf)
 
-{% include pdf src="/assets/pdf/poly_techniques-final2.pdf" %}
+{% include pdf src="/assets/pdf/poly techniques-final2021.pdf" %}
 
-Et tout se passe bien
+
