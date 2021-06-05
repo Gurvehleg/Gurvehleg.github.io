@@ -6,7 +6,7 @@ classes:
 header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Galaxie.jpg
-excerpt: la chimie, c'est la vie.
+excerpt: Ce site répertorie les leçons et montages que j'ai préparé pour l'agrégation de Physique-Chimie option Physique durant l'année 2020/2021 à l'ENS Paris-Saclay..
 ---
 {% comment %}
 Ajouter des images dans une page :
