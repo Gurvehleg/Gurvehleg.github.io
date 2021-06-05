@@ -3,9 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
+# Sur l'auteur
+
+Rémy Lienard, étudiant du M2FESup de l'ENS Paris-Saclay, promotion 2020-2021
 
 
-# A propos
+# Des liens utiles
 
 Tous les livres :
 https://adistance.manuelnumerique.com/recherche/?type=Manuel+num%C3%A9rique&niveau=Lyc%C3%A9e&classe=&matiere=Physique-Chimie&marque=
