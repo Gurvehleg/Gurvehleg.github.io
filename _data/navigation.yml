@@ -1,6 +1,4 @@
 main:
-  - title: "Présentation"
-    url: /blog/
   - title: "Leçons & montages"
     url: /categories/
   - title: "Etiquettes"
