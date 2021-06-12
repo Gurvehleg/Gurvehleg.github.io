@@ -8,7 +8,7 @@ tags:
   
 ---
 
-# Poly de manip 
+# Poly de manip (hi)
 
 [Lien du PDF](/assets/pdf/poly techniques-final2021.pdf)
 
