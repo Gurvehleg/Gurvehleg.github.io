@@ -14,4 +14,4 @@ tags:
 
 [Lien du PDF](/assets/pdf/Tables_de_donnees.pdf)
 
-{% include pdf src="/assets/pdf/poly_techniques-final2.pdf" %}
+{% include pdf src="/assets/pdf/Tables_de_donnees.pdf" %}
