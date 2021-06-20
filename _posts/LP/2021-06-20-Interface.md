@@ -13,3 +13,9 @@ tags:
 [Lien du PDF](/assets/pdf/LP10.pdf)
 
 {% include pdf src="/assets/pdf/LP10.pdf" %}
+
+[Lien du PDF](/assets/pdf/Interface.pdf)
+
+{% include pdf src="/assets/pdf/Interface.pdf" %}
+
+<a href="/assets/pdf/Interface.pptx" download>lien</a>
