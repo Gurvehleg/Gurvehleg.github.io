@@ -23,7 +23,7 @@ alpha = np.random.uniform(0,2*pi,N) # Angle pris par la bactérie
 
 l0 = l/N #longeur d'un pas
 
-x0,y0 = l/2,l/2
+x0,y0 = l/2,l/2 #Positions initiales
 
 
 
@@ -63,7 +63,7 @@ plt.plot(x,y)
 # plt.axis('equal') # Image non déformée
 plt.xlim(xmin,xmax)
 plt.ylim(ymin,ymax)
-plt.title("Marche aléatoire d'une bactérie")
+plt.title("Marche aléatoire d'une bactérie une probabilité de tourner P =" +str(P))
 plt.xlabel("Pas verticaux")
 plt.ylabel("Pas horizontaux")
 plt.plot(x0,y0, marker="o", color="red", label="début") #Trace un point pour l'origine de départ de la bactérie
